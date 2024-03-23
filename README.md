@@ -1,5 +1,7 @@
-# Bem vindo ao meu perfil💕
-## Eu sou Julia Almeida, Programadora e designer.
+## Bem vindo ao meu perfil💕
+Eu sou **Julia Almeida**, Programadora e designer.
+<br>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julia-Alme&show_icons=true&theme=transparent)
 
 <div style="display: inline_block"><br>
